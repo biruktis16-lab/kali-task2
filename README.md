@@ -4,7 +4,7 @@ This repository contains my Task 2 completed as part of my Linux learning journe
 
 Contents
 
-- "excellent.txt" – Text file created for the assignment.
+- "zxc.txt" – Text file created for the assignment.
 
 Skills Practiced
 
@@ -12,7 +12,8 @@ Skills Practiced
 - File creation and management
 - Git and GitHub basics
 - Version control
-task 2
+
+**task 2**
 1.Create A text ﬁle with name zxc.txt
 “ Hello my name is <Yourname>, i got this course of linux and
 said hello, and am tring to learn linux. I love linux, so i said HELLO
