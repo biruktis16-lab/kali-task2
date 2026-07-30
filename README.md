@@ -24,6 +24,7 @@ world "
 **solution**
 
 - create a text file named zxc.txt and add the text into the file
+
  -> echo "Hello my name is Yourname, I got this course of Linux and said hello, and am trying to learn Linux. I love Linux, so I said HELLO world." > zxc.txt
 
 2. How many times did the word hello written?
@@ -33,14 +34,21 @@ world "
   command
 
    grep -c "hello" zxc.txt | wc -l
+   
   this only count lowercase hello. Answer = 1
+
   command
+  
   grep -oi "hello" zxc.txt | wc -l
+  
   this counts all version of hello. Answer = 3
 
    4.how many words are there?
 
   **solution**
+  
   command
+
 wc -w zxc.txt
+
 Answer = 22
